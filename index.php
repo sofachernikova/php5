@@ -22,6 +22,7 @@
         <div class="header__info__block">
             <p class="header__info__p">Черникова Софья Кирилловна, 201-321</p>
             <p class="header__info__p">Лабораторная работа №5</p>
+            <a href="https://drive.google.com/drive/folders/1gBi_TtUPGPIPvIDqv--tZ2Zq3TUt_uzT?usp=sharing">Ссылка на гугл диск с файлами php и css</a>
         </div>
 
     </header>

@@ -86,6 +86,10 @@ body
     flex-direction: column;
 }
 
+a {
+    text-decoration: none;
+}
+
 .menu__item
 {
     text-decoration: none;
